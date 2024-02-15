@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wClAAbqUM3MTfDgS4VtRXmNVDSQ0oqqqfTeTn2kqulrERm6H5o6VLvnd6/g8ciAx37CaZm1aiOggwP56o8j5Bw==",
+  "success": true,
+  "projectFilePath": "D:\\Personal Projects\\Saloon.DataViewModels\\Saloon.DataViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

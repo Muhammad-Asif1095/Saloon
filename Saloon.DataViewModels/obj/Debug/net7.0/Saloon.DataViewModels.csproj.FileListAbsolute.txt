@@ -1,0 +1,12 @@
+D:\Personal Projects\Saloon.DataViewModels\bin\Debug\net7.0\Saloon.DataViewModels.deps.json
+D:\Personal Projects\Saloon.DataViewModels\bin\Debug\net7.0\Saloon.DataViewModels.dll
+D:\Personal Projects\Saloon.DataViewModels\bin\Debug\net7.0\Saloon.DataViewModels.pdb
+D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\Saloon.DataViewModels.csproj.AssemblyReference.cache
+D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\Saloon.DataViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\Saloon.DataViewModels.AssemblyInfoInputs.cache
+D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\Saloon.DataViewModels.AssemblyInfo.cs
+D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\Saloon.DataViewModels.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\Saloon.DataViewModels.dll
+D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\refint\Saloon.DataViewModels.dll
+D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\Saloon.DataViewModels.pdb
+D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\ref\Saloon.DataViewModels.dll
