@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Saloon.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a59c4d21b0880b3ba44ece519315ef25b2b451a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Saloon.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Saloon.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

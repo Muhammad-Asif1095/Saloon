@@ -19,3 +19,4 @@ D:\Personal Projects\Saloon.Services\obj\Debug\net7.0\refint\Saloon.Services.dll
 D:\Personal Projects\Saloon.Services\obj\Debug\net7.0\Saloon.Services.pdb
 D:\Personal Projects\Saloon.Services\obj\Debug\net7.0\Saloon.Services.genruntimeconfig.cache
 D:\Personal Projects\Saloon.Services\obj\Debug\net7.0\ref\Saloon.Services.dll
+D:\Personal Projects\Saloon.Services\obj\Debug\net7.0\Saloon.Services.sourcelink.json

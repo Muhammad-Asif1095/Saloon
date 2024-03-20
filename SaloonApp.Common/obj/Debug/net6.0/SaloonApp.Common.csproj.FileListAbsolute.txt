@@ -1,0 +1,13 @@
+D:\Personal Projects\SaloonApp.Common\bin\Debug\net6.0\SaloonApp.Common.deps.json
+D:\Personal Projects\SaloonApp.Common\bin\Debug\net6.0\SaloonApp.Common.dll
+D:\Personal Projects\SaloonApp.Common\bin\Debug\net6.0\SaloonApp.Common.pdb
+D:\Personal Projects\SaloonApp.Common\obj\Debug\net6.0\SaloonApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\SaloonApp.Common\obj\Debug\net6.0\SaloonApp.Common.AssemblyInfoInputs.cache
+D:\Personal Projects\SaloonApp.Common\obj\Debug\net6.0\SaloonApp.Common.AssemblyInfo.cs
+D:\Personal Projects\SaloonApp.Common\obj\Debug\net6.0\SaloonApp.Common.csproj.CoreCompileInputs.cache
+D:\Personal Projects\SaloonApp.Common\obj\Debug\net6.0\SaloonApp.Common.sourcelink.json
+D:\Personal Projects\SaloonApp.Common\obj\Debug\net6.0\SaloonApp.Common.dll
+D:\Personal Projects\SaloonApp.Common\obj\Debug\net6.0\refint\SaloonApp.Common.dll
+D:\Personal Projects\SaloonApp.Common\obj\Debug\net6.0\SaloonApp.Common.pdb
+D:\Personal Projects\SaloonApp.Common\obj\Debug\net6.0\ref\SaloonApp.Common.dll
+D:\Personal Projects\SaloonApp.Common\obj\Debug\net6.0\SaloonApp.Common.csproj.AssemblyReference.cache

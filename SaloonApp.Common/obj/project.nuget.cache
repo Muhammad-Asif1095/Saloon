@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "HFt2Mvq+eFe2aWWXD6Ub5Gb+ihwg1DT0S+ks/Z+fH/kj1Zo4/qem+4p9yztVZBvaZuHuecBcrevTzrObwQPMkw==",
+  "success": true,
+  "projectFilePath": "D:\\Personal Projects\\SaloonApp.Common\\SaloonApp.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\awssdk.core\\3.3.107.37\\awssdk.core.3.3.107.37.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\awssdk.s3\\3.3.112\\awssdk.s3.3.3.112.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0\\microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\microsoft.extensions.configuration.json\\6.0.0\\microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP PROBOOK\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

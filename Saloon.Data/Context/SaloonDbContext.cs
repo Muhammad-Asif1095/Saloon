@@ -597,7 +597,6 @@ public partial class SaloonDbContext : DbContext
                 .HasForeignKey(d => d.ModifiedBy)
                 .HasConstraintName("FK_ShopGenderCategory_AspNetUsers2");
         });
-
         modelBuilder.Entity<Staff>(entity =>
         {
             entity.Property(e => e.Id).HasDefaultValueSql("(newid())");

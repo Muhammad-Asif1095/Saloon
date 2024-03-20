@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Saloon.Common/bin/Debug/net7.0/Saloon.Common.dll
+/Saloon.Common/bin/Debug/net7.0/Saloon.Common.pdb
+/Saloon.Common/bin/Debug/net7.0/Saloon.DataViewModels.dll
+/Saloon.Common/bin/Debug/net7.0/Saloon.DataViewModels.pdb
+/Saloon.Common/obj/Debug/net7.0/ref/Saloon.Common.dll
+/Saloon.Common/obj/Debug/net7.0/refint/Saloon.Common.dll
+/Saloon.Common/obj/Debug/net7.0/Saloon.Common.AssemblyInfo.cs
+/Saloon.Common/obj/Debug/net7.0/Saloon.Common.AssemblyInfoInputs.cache
+/Saloon.Common/obj/Debug/net7.0/Saloon.Common.csproj.AssemblyReference.cache
+/Saloon.Common/obj/Debug/net7.0/Saloon.Common.csproj.CoreCompileInputs.cache
+/Saloon.Common/obj/Debug/net7.0/Saloon.Common.csproj.FileListAbsolute.txt
+/Saloon.Common/obj/Debug/net7.0/Saloon.Common.dll
+/Saloon.Common/obj/Debug/net7.0/Saloon.Common.pdb
+/Saloon.Common/obj/Debug/net7.0/Saloon.Common.sourcelink.json
+/Saloon.Common/obj/project.assets.json
+/Saloon.Common/obj/project.nuget.cache
+/Saloon.Common/obj/Saloon.Common.csproj.nuget.dgspec.json
+/Saloon.Data/bin/Debug/net7.0/Saloon.Common.dll
+/Saloon.Data/bin/Debug/net7.0/Saloon.Common.pdb
+/Saloon.Data/bin/Debug/net7.0/Saloon.Data.dll
+/Saloon.Data/bin/Debug/net7.0/Saloon.Data.pdb
+/Saloon.Data/bin/Debug/net7.0/Saloon.DataViewModels.dll
+/Saloon.Data/bin/Debug/net7.0/Saloon.DataViewModels.pdb

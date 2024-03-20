@@ -18,3 +18,4 @@ D:\Personal Projects\Saloon.Data\obj\Debug\net7.0\refint\Saloon.Data.dll
 D:\Personal Projects\Saloon.Data\obj\Debug\net7.0\Saloon.Data.pdb
 D:\Personal Projects\Saloon.Data\obj\Debug\net7.0\Saloon.Data.genruntimeconfig.cache
 D:\Personal Projects\Saloon.Data\obj\Debug\net7.0\ref\Saloon.Data.dll
+D:\Personal Projects\Saloon.Data\obj\Debug\net7.0\Saloon.Data.sourcelink.json

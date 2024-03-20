@@ -10,3 +10,4 @@ D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\Saloon.DataViewModel
 D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\refint\Saloon.DataViewModels.dll
 D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\Saloon.DataViewModels.pdb
 D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\ref\Saloon.DataViewModels.dll
+D:\Personal Projects\Saloon.DataViewModels\obj\Debug\net7.0\Saloon.DataViewModels.sourcelink.json

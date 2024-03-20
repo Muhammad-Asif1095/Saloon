@@ -1,0 +1,13 @@
+D:\Personal Projects\SaloonApp.DataViewModels\bin\Debug\net6.0\SaloonApp.DataViewModels.deps.json
+D:\Personal Projects\SaloonApp.DataViewModels\bin\Debug\net6.0\SaloonApp.DataViewModels.dll
+D:\Personal Projects\SaloonApp.DataViewModels\bin\Debug\net6.0\SaloonApp.DataViewModels.pdb
+D:\Personal Projects\SaloonApp.DataViewModels\obj\Debug\net6.0\SaloonApp.DataViewModels.csproj.AssemblyReference.cache
+D:\Personal Projects\SaloonApp.DataViewModels\obj\Debug\net6.0\SaloonApp.DataViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\SaloonApp.DataViewModels\obj\Debug\net6.0\SaloonApp.DataViewModels.AssemblyInfoInputs.cache
+D:\Personal Projects\SaloonApp.DataViewModels\obj\Debug\net6.0\SaloonApp.DataViewModels.AssemblyInfo.cs
+D:\Personal Projects\SaloonApp.DataViewModels\obj\Debug\net6.0\SaloonApp.DataViewModels.csproj.CoreCompileInputs.cache
+D:\Personal Projects\SaloonApp.DataViewModels\obj\Debug\net6.0\SaloonApp.DataViewModels.sourcelink.json
+D:\Personal Projects\SaloonApp.DataViewModels\obj\Debug\net6.0\SaloonApp.DataViewModels.dll
+D:\Personal Projects\SaloonApp.DataViewModels\obj\Debug\net6.0\refint\SaloonApp.DataViewModels.dll
+D:\Personal Projects\SaloonApp.DataViewModels\obj\Debug\net6.0\SaloonApp.DataViewModels.pdb
+D:\Personal Projects\SaloonApp.DataViewModels\obj\Debug\net6.0\ref\SaloonApp.DataViewModels.dll

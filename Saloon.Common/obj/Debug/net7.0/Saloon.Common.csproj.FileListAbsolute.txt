@@ -16,3 +16,4 @@ D:\Personal Projects\Saloon.Common\obj\Debug\net7.0\Saloon.Common.dll
 D:\Personal Projects\Saloon.Common\obj\Debug\net7.0\refint\Saloon.Common.dll
 D:\Personal Projects\Saloon.Common\obj\Debug\net7.0\Saloon.Common.pdb
 D:\Personal Projects\Saloon.Common\obj\Debug\net7.0\ref\Saloon.Common.dll
+D:\Personal Projects\Saloon.Common\obj\Debug\net7.0\Saloon.Common.sourcelink.json

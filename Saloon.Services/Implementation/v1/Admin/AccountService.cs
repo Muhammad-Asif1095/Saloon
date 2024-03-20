@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Castle.Core.Internal;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Saloon.Common;
 using Saloon.Data.Context;
@@ -10,6 +11,10 @@ using Saloon.DataViewModels.DTOs;
 using Saloon.DataViewModels.Enum.Admin.v1;
 using Saloon.DataViewModels.Request.Admin.v1;
 using Saloon.DataViewModels.Response.Admin.v1;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace Saloon.Services.Implementation.v1.Admin
 {
@@ -36,6 +41,7 @@ namespace Saloon.Services.Implementation.v1.Admin
 
                 using (var db = new SaloonDbContext())
                 {
+                    var roles = db.Roles.ToList();
                     var user = db.AspNetUsers
                         .Include(x => x.AdminUserRoles).FirstOrDefault(x => x.Email.ToLower().Equals(request.UserInfo.ToLower()) && x.Password.Equals(encryptedPassword));
 
